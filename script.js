@@ -8,3 +8,4 @@ function convertir() {
       document.getElementById('oct').innerHTML= oct;
          document.getElementById('hex').innerHTML= hex;
 }
+ 
